@@ -8,9 +8,6 @@
 
 * We create a web app to analyse the Phonepe transaction and users depending on various Years, Quarters, States, and Types of transaction and give a Geographical and Geo visualization output based on given requirements.
 
-###### " Disclaimer:-This data between 2018 to 2022 in INDIA only "
-
-![Intro GUI](https://github.com/Gopinathalpha7/Phonepe_Pulse_Data_Visualization/blob/a844079f9342b6f47d2c3ea0ce0382d83b6e458b/Intro%20GUI.png)
 
 ## Developer Guide 
 
